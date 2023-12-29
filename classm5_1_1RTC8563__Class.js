@@ -1,0 +1,26 @@
+var classm5_1_1RTC8563__Class =
+[
+    [ "RTC8563_Class", "classm5_1_1RTC8563__Class.html#a56cce4561ef4ea896b7841f136197e09", null ],
+    [ "begin", "classm5_1_1RTC8563__Class.html#a267f49fcbcba1c01f18e2b72c2a9fb3f", null ],
+    [ "clearIRQ", "classm5_1_1RTC8563__Class.html#ae38026c1e5d77c7b30576d9a7c5515b8", null ],
+    [ "disableIRQ", "classm5_1_1RTC8563__Class.html#af971950e80d7def33a91dc352003f6e1", null ],
+    [ "getDate", "classm5_1_1RTC8563__Class.html#a41f0de1ca8e723c0035958cccc7bbe7d", null ],
+    [ "getDate", "classm5_1_1RTC8563__Class.html#a7201601000997c35ce5c23a709f821c3", null ],
+    [ "getDateTime", "classm5_1_1RTC8563__Class.html#a4755bb9ca6c7a49aa7000734cfe05a83", null ],
+    [ "getDateTime", "classm5_1_1RTC8563__Class.html#aa38700cd5700a0f7200a624b0db5c5f7", null ],
+    [ "getIRQstatus", "classm5_1_1RTC8563__Class.html#a01587a8b2a08a8b45bfdd6bf25a19150", null ],
+    [ "getTime", "classm5_1_1RTC8563__Class.html#add8de11314713c4751e3b1094238667f", null ],
+    [ "getTime", "classm5_1_1RTC8563__Class.html#a8f2071c22f1fff35ee9f70b256f93e6e", null ],
+    [ "getVoltLow", "classm5_1_1RTC8563__Class.html#a9c78f8d5795eceb9fe538b62e02f25dd", null ],
+    [ "setAlarmIRQ", "classm5_1_1RTC8563__Class.html#af0400bb045592250307503f0c832887e", null ],
+    [ "setAlarmIRQ", "classm5_1_1RTC8563__Class.html#a0db44b303f4e5662fd89bd97bf243e37", null ],
+    [ "setAlarmIRQ", "classm5_1_1RTC8563__Class.html#ae4de62c8681bce270fa109954b99fa43", null ],
+    [ "setDate", "classm5_1_1RTC8563__Class.html#ac3109b43ad60faea63a8abfa2e334ad7", null ],
+    [ "setDate", "classm5_1_1RTC8563__Class.html#a5b62553b3c702bbe0e23104dc9edd73e", null ],
+    [ "setDateTime", "classm5_1_1RTC8563__Class.html#a3f8f27b0352430b4d37eabf289a813b0", null ],
+    [ "setDateTime", "classm5_1_1RTC8563__Class.html#a8f0bf78af5f198e5da737625ecf3e74b", null ],
+    [ "setDateTime", "classm5_1_1RTC8563__Class.html#a37d86e4e57cf798186c4325cd2b34c8a", null ],
+    [ "setSystemTimeFromRtc", "classm5_1_1RTC8563__Class.html#a6b7719e68a093e6b5c5c4b3d8530529a", null ],
+    [ "setTime", "classm5_1_1RTC8563__Class.html#ad0a50b44db46eae5d738bcdbf24e57ec", null ],
+    [ "setTime", "classm5_1_1RTC8563__Class.html#ab69466613b6d5f411eda400ab3b1aace", null ]
+];

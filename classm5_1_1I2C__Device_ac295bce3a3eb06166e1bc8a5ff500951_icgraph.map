@@ -1,0 +1,32 @@
+<map id="m5::I2C_Device::writeRegister8" name="m5::I2C_Device::writeRegister8">
+<area shape="rect" id="node1" title=" " alt="" coords="979,610,1205,637"/>
+<area shape="rect" id="node2" href="$classm5_1_1RTC8563__Class.html#a267f49fcbcba1c01f18e2b72c2a9fb3f" title=" " alt="" coords="739,5,896,47"/>
+<area shape="rect" id="node3" href="$classm5_1_1Power__Class.html#a59f19f254878c885c1db5acf3ad979d6" title=" " alt="" coords="456,101,633,127"/>
+<area shape="rect" id="node4" href="$classm5_1_1RTC8563__Class.html#af971950e80d7def33a91dc352003f6e1" title=" " alt="" coords="739,319,896,360"/>
+<area shape="rect" id="node6" href="$classm5_1_1AXP192__Class.html#a57161d242c957903f2403e36988ee71a" title=" " alt="" coords="719,449,915,491"/>
+<area shape="rect" id="node11" href="$classm5_1_1AXP2101__Class.html#a45c6182abdf9ceaba3251fe7fb32ff5d" title=" " alt="" coords="738,515,897,556"/>
+<area shape="rect" id="node12" href="$classm5_1_1AXP192__Class.html#af3e2b0841211fa67f74235eae6dbc0da" title=" " alt="" coords="705,581,930,607"/>
+<area shape="rect" id="node13" href="$classm5_1_1AXP192__Class.html#ad7ab4dc79b4d935391f8b56aec7649f3" title=" " alt="" coords="720,632,915,673"/>
+<area shape="rect" id="node14" href="$classm5_1_1RTC8563__Class.html#ae4de62c8681bce270fa109954b99fa43" title=" " alt="" coords="739,384,896,425"/>
+<area shape="rect" id="node15" href="$classm5_1_1AXP192__Class.html#ab1dd582a1411e8075aea43fdf5f5d63b" title=" " alt="" coords="708,697,927,739"/>
+<area shape="rect" id="node17" href="$classm5_1_1AXP2101__Class.html#a57b9537260458bd50c87a8e908c7b63c" title=" " alt="" coords="738,763,897,804"/>
+<area shape="rect" id="node18" href="$classm5_1_1IP5306__Class.html#a69422ba5b8f1fab65169c3be42caa045" title=" " alt="" coords="711,828,924,869"/>
+<area shape="rect" id="node19" href="$classm5_1_1AXP192__Class.html#a9690b69c10e046efea8d6f9a542a6772" title=" " alt="" coords="709,123,926,164"/>
+<area shape="rect" id="node21" href="$classm5_1_1AXP2101__Class.html#a7ab1023c4fb1bac941993737becc0123" title=" " alt="" coords="738,188,897,229"/>
+<area shape="rect" id="node22" href="$classm5_1_1IP5306__Class.html#a7227ebee6c81a30643bc6e44ff21878f" title=" " alt="" coords="712,253,923,295"/>
+<area shape="rect" id="node23" href="$classm5_1_1AXP192__Class.html#ad122e8dc932738926255e19e10a5f510" title=" " alt="" coords="709,893,926,935"/>
+<area shape="rect" id="node25" href="$classm5_1_1AXP2101__Class.html#ab862a36f3bc6b5be1973be9cfec15130" title=" " alt="" coords="738,959,897,1000"/>
+<area shape="rect" id="node26" href="$classm5_1_1IP5306__Class.html#a67f2da425e440053a5dec651b8462e62" title=" " alt="" coords="712,1024,923,1065"/>
+<area shape="rect" id="node27" href="$classm5_1_1Power__Class.html#a2259d57f1a49c499e029b82c2e23a867" title=" " alt="" coords="704,1090,931,1117"/>
+<area shape="rect" id="node29" href="$classm5_1_1Power__Class.html#a72aa5b1e4eac1ba7eb1fc4241fe5d0ac" title=" " alt="" coords="725,1141,909,1167"/>
+<area shape="rect" id="node30" href="$classm5_1_1AXP2101__Class.html#abc36350bf21167504e8196a18161b956" title=" " alt="" coords="738,1192,897,1233"/>
+<area shape="rect" id="node5" href="$classm5_1_1Power__Class.html#a24f9966e8e69d16f2275201d51ade276" title=" " alt="" coords="439,359,651,386"/>
+<area shape="rect" id="node7" href="$classm5_1_1Power__Class.html#ac0936711d8d5dec2ac32711442111e83" title=" " alt="" coords="435,490,655,517"/>
+<area shape="rect" id="node8" href="$classm5_1_1M5Unified.html#aa7dfac03ef33e07ef6e2ce81114bb239" title="To call this function in a loop function." alt="" coords="215,490,385,517"/>
+<area shape="rect" id="node9" href="$classm5_1_1M5Unified.html#ae3245e2867f7f31c79c72ae60960a7fb" title="Perform initialization process at startup." alt="" coords="5,465,167,491"/>
+<area shape="rect" id="node10" href="$user__code_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title=" " alt="" coords="61,515,111,542"/>
+<area shape="rect" id="node16" href="$classm5_1_1Power__Class.html#ad290e49c987f222fa89f7637c1d89813" title=" " alt="" coords="440,763,649,804"/>
+<area shape="rect" id="node20" href="$classm5_1_1Power__Class.html#a5389b45f67ecb4aab2833588b7b07972" title=" " alt="" coords="441,188,648,229"/>
+<area shape="rect" id="node24" href="$classm5_1_1Power__Class.html#afe272d9b5afdc2815b99003c0517de31" title=" " alt="" coords="441,959,648,1000"/>
+<area shape="rect" id="node28" href="$classm5_1_1Power__Class.html#a302d61bd249bc1b1600f8c443a638c23" title="deprecated : Change to &quot;setExtOutput&quot;" alt="" coords="433,1090,656,1117"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m5::RTC8563_Class::setAlarmIRQ" name="m5::RTC8563_Class::setAlarmIRQ">
+<area shape="rect" id="node1" title="Set alarm by time." alt="" coords="5,49,163,90"/>
+<area shape="rect" id="node2" href="$classm5_1_1I2C__Device.html#a5656a4f1446ade85a38f51fa63c62270" title=" " alt="" coords="236,5,404,32"/>
+<area shape="rect" id="node4" href="$classm5_1_1I2C__Device.html#a547729d8098bf131d7010e4615d69115" title=" " alt="" coords="237,56,403,83"/>
+<area shape="rect" id="node6" href="$classm5_1_1I2C__Device.html#ad698c73547c88f3812ff2bc612209770" title=" " alt="" coords="211,107,429,133"/>
+<area shape="rect" id="node3" href="$classm5_1_1I2C__Class.html#a4a27bc8916a337865a70434ec6790007" title=" " alt="" coords="503,5,661,32"/>
+<area shape="rect" id="node5" href="$classm5_1_1I2C__Class.html#a4f9b4caa60f85d0e10e0f09c412e26e1" title=" " alt="" coords="503,56,661,83"/>
+<area shape="rect" id="node7" href="$classm5_1_1I2C__Class.html#a639ea3173b2759899692408103b91576" title=" " alt="" coords="477,107,687,133"/>
+</map>

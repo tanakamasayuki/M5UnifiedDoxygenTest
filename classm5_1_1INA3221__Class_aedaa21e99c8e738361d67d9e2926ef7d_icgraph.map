@@ -1,0 +1,8 @@
+<map id="m5::INA3221_Class::getShuntMilliVoltage" name="m5::INA3221_Class::getShuntMilliVoltage">
+<area shape="rect" id="node1" title=" " alt="" coords="755,35,912,76"/>
+<area shape="rect" id="node2" href="$classm5_1_1INA3221__Class.html#add13d97b72c4559b5fc4614d31815f14" title=" " alt="" coords="551,35,707,76"/>
+<area shape="rect" id="node3" href="$classm5_1_1INA3221__Class.html#adfba31baf4c2fa6db30fd471119df2d0" title=" " alt="" coords="311,5,467,47"/>
+<area shape="rect" id="node5" href="$classm5_1_1Power__Class.html#a2259d57f1a49c499e029b82c2e23a867" title=" " alt="" coords="276,71,503,98"/>
+<area shape="rect" id="node4" href="$classm5_1_1Power__Class.html#a4bd6a55f54c4a64aa38894c4bfde8132" title=" " alt="" coords="11,5,222,47"/>
+<area shape="rect" id="node6" href="$classm5_1_1Power__Class.html#a302d61bd249bc1b1600f8c443a638c23" title="deprecated : Change to &quot;setExtOutput&quot;" alt="" coords="5,71,228,98"/>
+</map>

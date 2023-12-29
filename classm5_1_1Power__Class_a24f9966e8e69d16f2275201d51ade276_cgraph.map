@@ -1,0 +1,11 @@
+<map id="m5::Power_Class::timerSleep" name="m5::Power_Class::timerSleep">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,217,84"/>
+<area shape="rect" id="node2" href="$classm5_1_1RTC8563__Class.html#af971950e80d7def33a91dc352003f6e1" title=" " alt="" coords="265,17,423,58"/>
+<area shape="rect" id="node7" href="$classm5_1_1RTC8563__Class.html#ae4de62c8681bce270fa109954b99fa43" title=" " alt="" coords="265,82,423,123"/>
+<area shape="rect" id="node3" href="$classm5_1_1I2C__Device.html#ad698c73547c88f3812ff2bc612209770" title=" " alt="" coords="475,5,693,32"/>
+<area shape="rect" id="node5" href="$classm5_1_1I2C__Device.html#ac295bce3a3eb06166e1bc8a5ff500951" title=" " alt="" coords="471,56,697,83"/>
+<area shape="rect" id="node4" href="$classm5_1_1I2C__Class.html#a639ea3173b2759899692408103b91576" title=" " alt="" coords="749,5,959,32"/>
+<area shape="rect" id="node6" href="$classm5_1_1I2C__Class.html#aadbb966433a9867d18d5d49dcc37f7c4" title=" " alt="" coords="745,56,963,83"/>
+<area shape="rect" id="node8" href="$classm5_1_1I2C__Device.html#aa08510ec9fe332edd0e9241029d9ce71" title=" " alt="" coords="473,107,695,133"/>
+<area shape="rect" id="node9" href="$classm5_1_1I2C__Class.html#a3ec4a0ad4573e5dc05c111b2bf3669c8" title=" " alt="" coords="747,107,961,133"/>
+</map>

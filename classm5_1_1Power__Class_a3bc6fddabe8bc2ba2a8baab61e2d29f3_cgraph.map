@@ -1,0 +1,10 @@
+<map id="m5::Power_Class::getBatteryLevel" name="m5::Power_Class::getBatteryLevel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,216,112"/>
+<area shape="rect" id="node2" href="$classm5_1_1AXP2101__Class.html#a78891bd9aa1e3ff4930366f0ddef7b1b" title=" " alt="" coords="295,5,453,47"/>
+<area shape="rect" id="node5" href="$classm5_1_1IP5306__Class.html#a6051e6fd504bd6b2cd1dbc497c057c3e" title=" " alt="" coords="267,71,481,112"/>
+<area shape="rect" id="node8" href="$classm5_1_1AXP192__Class.html#a0225ced28689d4a8e41c1114fa152eb6" title=" " alt="" coords="264,136,484,177"/>
+<area shape="rect" id="node3" href="$classm5_1_1I2C__Device.html#aa08510ec9fe332edd0e9241029d9ce71" title=" " alt="" coords="532,13,755,39"/>
+<area shape="rect" id="node4" href="$classm5_1_1I2C__Class.html#a3ec4a0ad4573e5dc05c111b2bf3669c8" title=" " alt="" coords="803,13,1016,39"/>
+<area shape="rect" id="node6" href="$classm5_1_1I2C__Device.html#a96ab5723c44319d13fa8c2821add374d" title=" " alt="" coords="536,78,751,105"/>
+<area shape="rect" id="node7" href="$classm5_1_1I2C__Class.html#af51a6ff540bcc7e772bc04db3cb555fd" title=" " alt="" coords="807,78,1012,105"/>
+</map>

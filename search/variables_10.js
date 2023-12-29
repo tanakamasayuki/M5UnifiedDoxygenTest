@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['sample_5frate_1354',['sample_rate',['../structm5_1_1speaker__config__t.html#acc7abfe86af236a570891829eaabdeff',1,'m5::speaker_config_t::sample_rate()'],['../structm5_1_1mic__config__t.html#a91365083f6d5aa4de1f7e3aa6a6eced2',1,'m5::mic_config_t::sample_rate()']]],
+  ['sample_5frate_5fx256_1355',['sample_rate_x256',['../structm5_1_1Speaker__Class_1_1wav__info__t.html#af4038b248b4f02cbb4cd9f8d45533496',1,'m5::Speaker_Class::wav_info_t']]],
+  ['sc_5fout_5f0_5faddr_1356',['SC_OUT_0_ADDR',['../classm5_1_1BMI270__Class.html#aeb7d52bacc8e6472f7a930ba6069d95b',1,'m5::BMI270_Class']]],
+  ['self_5ftest_5fcmd_1357',['SELF_TEST_CMD',['../classm5_1_1AK8963__Class.html#aaf8dd094f6b446db152e99bfda5b49e6',1,'m5::AK8963_Class']]],
+  ['self_5ftest_5fmems_5faddr_1358',['SELF_TEST_MEMS_ADDR',['../classm5_1_1BMI270__Class.html#a845c2f94b7628c4aab1b0fc9e67da9f9',1,'m5::BMI270_Class']]],
+  ['sensor_1359',['sensor',['../structm5_1_1IMU__Base_1_1imu__raw__data__t.html#a1c2c80fcfe10e194740c6e161098851f',1,'m5::IMU_Base::imu_raw_data_t::sensor()'],['../structm5_1_1IMU__Class_1_1imu__data__t.html#a25d6954c6d2dd096392bb66de1bd2fd3',1,'m5::IMU_Class::imu_data_t::sensor()']]],
+  ['sensortime_5faddr_1360',['SENSORTIME_ADDR',['../classm5_1_1BMI270__Class.html#ab3d976307f28450adb031693431b657e',1,'m5::BMI270_Class']]],
+  ['single_5fmeasure_5fcmd_1361',['SINGLE_MEASURE_CMD',['../classm5_1_1AK8963__Class.html#a1e2a1e034a29bc67a6e29ec8e37922a1',1,'m5::AK8963_Class']]],
+  ['soft_5freset_5fcmd_1362',['SOFT_RESET_CMD',['../classm5_1_1BMI270__Class.html#ad445c67c4d4ef386a51f63fb0c42d84e',1,'m5::BMI270_Class']]],
+  ['sound_5fchannel_5fmax_1363',['sound_channel_max',['../classm5_1_1Speaker__Class.html#ac03dff1187fd15a0bf95b69944b7eb73',1,'m5::Speaker_Class']]],
+  ['speaker_1364',['Speaker',['../classm5_1_1M5Unified.html#ab81cdf13c434012fa4226116e95116af',1,'m5::M5Unified']]],
+  ['state_1365',['state',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#a57f5ec4c5d41f80e6beedca8660af9a0',1,'m5::Touch_Class::touch_detail_t']]],
+  ['status1_5faddr_1366',['STATUS1_ADDR',['../classm5_1_1AK8963__Class.html#ab51d9d168826f3ee5c63438897ce022a',1,'m5::AK8963_Class']]],
+  ['status_5faddr_1367',['STATUS_ADDR',['../classm5_1_1BMI270__Class.html#a807cf2d51970473632a4471aad9ccea8',1,'m5::BMI270_Class']]],
+  ['stereo_1368',['stereo',['../structm5_1_1mic__config__t.html#af07d97635a621cbae974f58a435e27e7',1,'m5::mic_config_t::stereo()'],['../structm5_1_1speaker__config__t.html#a7fe18d29cc234f5364ac422215b0aec7',1,'m5::speaker_config_t::stereo()']]],
+  ['stillness_1369',['stillness',['../IMU__Class_8hpp.html#a5586c6677bd23de967bbcfbae9cc8593',1,'IMU_Class.hpp']]],
+  ['stop_5fcurrent_1370',['stop_current',['../structm5_1_1Speaker__Class_1_1wav__info__t.html#abe68b342d51d9540e5fc3ae298c153e1',1,'m5::Speaker_Class::wav_info_t']]],
+  ['strength_1371',['strength',['../IMU__Class_8hpp.html#a91ef33b9732851e1e3c943f289e3a6d4',1,'IMU_Class.hpp']]],
+  ['sync_5fcommand_5faddr_1372',['SYNC_COMMAND_ADDR',['../classm5_1_1BMI270__Class.html#a07df10706abf2031ea3a33188bc44d37',1,'m5::BMI270_Class']]]
+];

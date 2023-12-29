@@ -1,0 +1,5 @@
+<map id="m5::AXP192_Class::isCharging" name="m5::AXP192_Class::isCharging">
+<area shape="rect" id="node1" title="Get whether the battery is currently charging or not." alt="" coords="5,5,225,32"/>
+<area shape="rect" id="node2" href="$classm5_1_1I2C__Device.html#aa08510ec9fe332edd0e9241029d9ce71" title=" " alt="" coords="273,5,496,32"/>
+<area shape="rect" id="node3" href="$classm5_1_1I2C__Class.html#a3ec4a0ad4573e5dc05c111b2bf3669c8" title=" " alt="" coords="544,5,757,32"/>
+</map>

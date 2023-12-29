@@ -1,0 +1,8 @@
+<map id="m5::Power_Class::deepSleep" name="m5::Power_Class::deepSleep">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,215,57"/>
+<area shape="rect" id="node2" href="$classm5_1_1IP5306__Class.html#ab84ef493b65c3a4733ff95601c08fc84" title="Set whether or not to continue supplying power even at low loads." alt="" coords="263,23,468,65"/>
+<area shape="rect" id="node3" href="$classm5_1_1I2C__Device.html#a96ab5723c44319d13fa8c2821add374d" title=" " alt="" coords="518,5,733,32"/>
+<area shape="rect" id="node5" href="$classm5_1_1I2C__Device.html#ad698c73547c88f3812ff2bc612209770" title=" " alt="" coords="516,56,735,83"/>
+<area shape="rect" id="node4" href="$classm5_1_1I2C__Class.html#af51a6ff540bcc7e772bc04db3cb555fd" title=" " alt="" coords="785,5,990,32"/>
+<area shape="rect" id="node6" href="$classm5_1_1I2C__Class.html#a639ea3173b2759899692408103b91576" title=" " alt="" coords="783,56,992,83"/>
+</map>

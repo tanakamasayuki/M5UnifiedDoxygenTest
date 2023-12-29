@@ -1,0 +1,10 @@
+<map id="m5::Power_Class::isCharging" name="m5::Power_Class::isCharging">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,216,91"/>
+<area shape="rect" id="node2" href="$classm5_1_1AXP192__Class.html#a88ea522d6411e0b269dc68ab41950c53" title="Get whether the battery is currently charging or not." alt="" coords="264,5,484,32"/>
+<area shape="rect" id="node5" href="$classm5_1_1AXP2101__Class.html#a510b6067397ab28566606ec6fc59f2b2" title="Get whether the battery is currently charging or not." alt="" coords="295,57,453,98"/>
+<area shape="rect" id="node6" href="$classm5_1_1IP5306__Class.html#aab372a094b8f38c95fb2e291235ef06e" title="Get whether the battery is currently charging or not." alt="" coords="267,123,481,149"/>
+<area shape="rect" id="node3" href="$classm5_1_1I2C__Device.html#aa08510ec9fe332edd0e9241029d9ce71" title=" " alt="" coords="532,35,755,61"/>
+<area shape="rect" id="node4" href="$classm5_1_1I2C__Class.html#a3ec4a0ad4573e5dc05c111b2bf3669c8" title=" " alt="" coords="803,35,1016,61"/>
+<area shape="rect" id="node7" href="$classm5_1_1I2C__Device.html#a96ab5723c44319d13fa8c2821add374d" title=" " alt="" coords="536,123,751,149"/>
+<area shape="rect" id="node8" href="$classm5_1_1I2C__Class.html#af51a6ff540bcc7e772bc04db3cb555fd" title=" " alt="" coords="807,123,1012,149"/>
+</map>

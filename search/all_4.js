@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['dac_5fzero_5flevel_131',['dac_zero_level',['../structm5_1_1speaker__config__t.html#a5c487ecdce831c2ca081cbacf9e47e2f',1,'m5::speaker_config_t']]],
+  ['data_132',['data',['../structm5_1_1Mic__Class_1_1recording__info__t.html#a208ff800d3d5d431e359680d5f7fe136',1,'m5::Mic_Class::recording_info_t::data()'],['../structm5_1_1Speaker__Class_1_1wav__info__t.html#a5601aee44e523551e916727cea574817',1,'m5::Speaker_Class::wav_info_t::data()']]],
+  ['deepsleep_133',['deepSleep',['../classm5_1_1Power__Class.html#a6ff134344d6a95139df29a228b9f2aab',1,'m5::Power_Class']]],
+  ['default_5faddress_134',['DEFAULT_ADDRESS',['../classm5_1_1SH200Q__Class.html#a7ecaaa2148e339e627fae7e125a684db',1,'m5::SH200Q_Class::DEFAULT_ADDRESS()'],['../classm5_1_1RTC8563__Class.html#a6f07393cb51a9c648e85baab8f9ac785',1,'m5::RTC8563_Class::DEFAULT_ADDRESS()'],['../classm5_1_1IP5306__Class.html#a66cf62bb20863a506fe7a34b16a6bc9c',1,'m5::IP5306_Class::DEFAULT_ADDRESS()'],['../classm5_1_1INA3221__Class.html#ad0c7e03187d7581f2f17632debeee0ba',1,'m5::INA3221_Class::DEFAULT_ADDRESS()'],['../classm5_1_1MPU6886__Class.html#a6a8082632b5e3474852c95b7ceb82993',1,'m5::MPU6886_Class::DEFAULT_ADDRESS()'],['../classm5_1_1BMM150__Class.html#a217b0bf4d544f9ea280623116afb2f38',1,'m5::BMM150_Class::DEFAULT_ADDRESS()'],['../classm5_1_1BMI270__Class.html#a7e8d3076d05e148dcc93fe753a6533e2',1,'m5::BMI270_Class::DEFAULT_ADDRESS()'],['../classm5_1_1AK8963__Class.html#af6adb9def7b81fb6fa513e22f76cbb20',1,'m5::AK8963_Class::DEFAULT_ADDRESS()'],['../classm5_1_1AXP2101__Class.html#a36722192c292a2d66f751c6573ad02ea',1,'m5::AXP2101_Class::DEFAULT_ADDRESS()'],['../classm5_1_1AXP192__Class.html#aa156d81ece8db3c822459a1ed1103097',1,'m5::AXP192_Class::DEFAULT_ADDRESS()']]],
+  ['delay_135',['delay',['../classm5_1_1M5Unified.html#aafa5f62cc5b8802d505eec8e9291082f',1,'m5::M5Unified']]],
+  ['deletetimer_136',['deleteTimer',['../classM5Timer.html#a5ad1d17a5e0d8abc3166f691b6245b92',1,'M5Timer']]],
+  ['deltax_137',['deltaX',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#aae66a90aa684016db4a37e4cc2268a30',1,'m5::Touch_Class::touch_detail_t']]],
+  ['deltay_138',['deltaY',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#a9aebe96b2e4f119d4fe3ddee476cbc44',1,'m5::Touch_Class::touch_detail_t']]],
+  ['deprecated_20list_139',['Deprecated List',['../deprecated.html',1,'']]],
+  ['dev_5fid_5fmpu6050_140',['DEV_ID_MPU6050',['../classm5_1_1MPU6886__Class.html#a273f5a7f698dcf448fbcf5dc99dcba81',1,'m5::MPU6886_Class']]],
+  ['dev_5fid_5fmpu6886_141',['DEV_ID_MPU6886',['../classm5_1_1MPU6886__Class.html#a2a27c07c8db49929784c0c3d5d9b3d8f',1,'m5::MPU6886_Class']]],
+  ['dev_5fid_5fmpu9250_142',['DEV_ID_MPU9250',['../classm5_1_1MPU6886__Class.html#a03b8b41b0b79441a6d6bee624177a7a0',1,'m5::MPU6886_Class']]],
+  ['diff_143',['diff',['../structm5_1_1Speaker__Class_1_1channel__info__t.html#a79ad08a358f287939205bf83de6b3ef8',1,'m5::Speaker_Class::channel_info_t']]],
+  ['disable_144',['disable',['../classM5Timer.html#a37d1cc4a6672bc1a9d7be183f2e5e0b4',1,'M5Timer']]],
+  ['disable_5frtc_5firq_145',['disable_rtc_irq',['../structm5_1_1M5Unified_1_1config__t.html#a5ed3293c05ca3dd265975da9ba0bd16b',1,'m5::M5Unified::config_t']]],
+  ['disableirq_146',['disableIRQ',['../classm5_1_1RTC8563__Class.html#af971950e80d7def33a91dc352003f6e1',1,'m5::RTC8563_Class']]],
+  ['display_147',['Display',['../classm5_1_1M5Unified.html#a1e659db8c76e6b7a252a1b321115f9ab',1,'m5::M5Unified']]],
+  ['displays_148',['Displays',['../classm5_1_1M5Unified.html#a8a48264b01e402d4ef8106edea365f0b',1,'m5::M5Unified']]],
+  ['distancex_149',['distanceX',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#a984769e64d8ba8c8a458db9ad6e93779',1,'m5::Touch_Class::touch_detail_t']]],
+  ['distancey_150',['distanceY',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#ae1ecb4b8af8d70de0a5d6db8d6bb7127',1,'m5::Touch_Class::touch_detail_t']]],
+  ['dma_5fbuf_5fcount_151',['dma_buf_count',['../structm5_1_1mic__config__t.html#a8b5c3b5fc5d9c314e76b0afa5e6a0264',1,'m5::mic_config_t::dma_buf_count()'],['../structm5_1_1speaker__config__t.html#af27a226969e92f03a4857e939c87993c',1,'m5::speaker_config_t::dma_buf_count()']]],
+  ['dma_5fbuf_5flen_152',['dma_buf_len',['../structm5_1_1mic__config__t.html#ae6e1899386b4c56977239d192f6855c1',1,'m5::mic_config_t::dma_buf_len()'],['../structm5_1_1speaker__config__t.html#af7b0f1afbe3ed1f705cf8af177a270af',1,'m5::speaker_config_t::dma_buf_len()']]],
+  ['drag_153',['drag',['../namespacem5.html#a1718960a4023f8952b7c7c3f20a1a8c1af33662d638f165b14331b15e3a10267d',1,'m5']]],
+  ['drag_5fbegin_154',['drag_begin',['../namespacem5.html#a1718960a4023f8952b7c7c3f20a1a8c1a9daa2f1d7b7ea08ee4874c0196007bf4',1,'m5']]],
+  ['drag_5fend_155',['drag_end',['../namespacem5.html#a1718960a4023f8952b7c7c3f20a1a8c1a5c840a1a885043a2b8a440ec518734b5',1,'m5']]]
+];

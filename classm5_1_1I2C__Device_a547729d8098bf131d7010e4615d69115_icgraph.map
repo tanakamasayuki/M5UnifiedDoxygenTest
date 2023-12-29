@@ -1,0 +1,11 @@
+<map id="m5::I2C_Device::bitOn" name="m5::I2C_Device::bitOn">
+<area shape="rect" id="node1" title=" " alt="" coords="823,159,989,185"/>
+<area shape="rect" id="node2" href="$classm5_1_1AXP192__Class.html#af77bc56375e9013335283cd490392c1c" title=" " alt="" coords="557,5,768,32"/>
+<area shape="rect" id="node3" href="$classm5_1_1AXP2101__Class.html#a3e40c8a98f6a83b630ba2f35e300968e" title=" " alt="" coords="583,57,742,98"/>
+<area shape="rect" id="node4" href="$classm5_1_1RTC8563__Class.html#a0db44b303f4e5662fd89bd97bf243e37" title="Set alarm by time." alt="" coords="584,122,741,163"/>
+<area shape="rect" id="node5" href="$classm5_1_1AXP192__Class.html#a49fa372110daa4fbaa5c28cbaa3fe449" title=" " alt="" coords="551,188,775,215"/>
+<area shape="rect" id="node6" href="$classm5_1_1AXP192__Class.html#aeec9e60acdfa9b125d8d7140869ec131" title=" " alt="" coords="555,239,770,265"/>
+<area shape="rect" id="node9" href="$classm5_1_1AXP2101__Class.html#abc36350bf21167504e8196a18161b956" title=" " alt="" coords="583,290,742,331"/>
+<area shape="rect" id="node7" href="$classm5_1_1Power__Class.html#a2259d57f1a49c499e029b82c2e23a867" title=" " alt="" coords="276,239,503,265"/>
+<area shape="rect" id="node8" href="$classm5_1_1Power__Class.html#a302d61bd249bc1b1600f8c443a638c23" title="deprecated : Change to &quot;setExtOutput&quot;" alt="" coords="5,239,228,265"/>
+</map>

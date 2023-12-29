@@ -1,0 +1,31 @@
+<map id="loop" name="loop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,56,285"/>
+<area shape="rect" id="node2" href="$classm5_1_1M5Unified.html#aafa5f62cc5b8802d505eec8e9291082f" title=" " alt="" coords="132,157,293,184"/>
+<area shape="rect" id="node3" href="$classm5_1_1Touch__Class.html#a1a55808ab4280eeecab32413c1419c0a" title=" " alt="" coords="393,5,592,32"/>
+<area shape="rect" id="node4" href="$classm5_1_1Speaker__Class.html#aca2ff9ea7e14cee7edb93b429bcdba13" title=" " alt="" coords="121,309,304,336"/>
+<area shape="rect" id="node11" href="$classm5_1_1M5Unified.html#aa7dfac03ef33e07ef6e2ce81114bb239" title="To call this function in a loop function." alt="" coords="127,259,298,285"/>
+<area shape="rect" id="node29" href="$classm5_1_1Button__Class.html#a700202ab16f37efb994fdd5c1e6d434c" title="Returns true when the button is pressed briefly and released." alt="" coords="104,360,321,387"/>
+<area shape="rect" id="node5" href="$classm5_1_1Speaker__Class.html#a80657f74f10f60440da2e1b524c2137f" title=" " alt="" coords="416,594,569,635"/>
+<area shape="rect" id="node6" href="$classm5_1_1Speaker__Class.html#a613c85e23f53cc57cc2c825f182b371d" title=" " alt="" coords="687,561,840,602"/>
+<area shape="rect" id="node7" href="$classm5_1_1Speaker__Class.html#a09cc9f195fa0f3062af24aec23966ebf" title=" " alt="" coords="687,626,840,667"/>
+<area shape="rect" id="node8" href="$classm5_1_1Speaker__Class.html#a8eba72ec7dc14b508f976bbef68b909c" title=" " alt="" coords="947,593,1101,634"/>
+<area shape="rect" id="node9" href="$classm5_1_1Speaker__Class.html#a9a244177236da60b8848c8861990e12f" title=" " alt="" coords="947,658,1101,699"/>
+<area shape="rect" id="node10" href="$structm5_1_1Speaker__Class_1_1wav__info__t.html#a7ac63f8dc54fa3d601037c29978516f8" title=" " alt="" coords="1217,658,1371,699"/>
+<area shape="rect" id="node12" href="$classm5_1_1Touch__Class.html#a825a70a20dd321718feb1cbf2840b091" title=" " alt="" coords="394,376,591,403"/>
+<area shape="rect" id="node13" href="$classm5_1_1Power__Class.html#ac0936711d8d5dec2ac32711442111e83" title=" " alt="" coords="383,259,603,285"/>
+<area shape="rect" id="node20" href="$classm5_1_1Button__Class.html#a23e4298a532dbf8e0c4dc9f9fe47da63" title=" " alt="" coords="393,477,592,504"/>
+<area shape="rect" id="node21" href="$classm5_1_1Touch__Class.html#a95cdb24a7f75d4f51e285dcf93251c56" title=" " alt="" coords="395,529,591,570"/>
+<area shape="rect" id="node22" href="$classm5_1_1Button__Class.html#a5831a3a05a88e91d4364eef89bd23448" title=" " alt="" coords="369,56,616,83"/>
+<area shape="rect" id="node23" href="$classm5_1_1Touch__Class.html#aa1e0d9b6c55775198b36c5581136d80a" title=" " alt="" coords="392,107,593,133"/>
+<area shape="rect" id="node24" href="$classm5_1_1Button__Class.html#a1039da28e0c8974c326e12b50932ba25" title=" " alt="" coords="389,157,596,184"/>
+<area shape="rect" id="node25" href="$classm5_1_1Button__Class.html#afad30dd90ade2022995d86998a84a082" title=" " alt="" coords="397,310,589,351"/>
+<area shape="rect" id="node26" href="$classm5_1_1Button__Class.html#a72de9ebd8f43f07495168aa0044506ee" title=" " alt="" coords="664,405,863,432"/>
+<area shape="rect" id="node27" href="$classm5_1_1Touch__Class.html#a5c7ce30fac19040843e7ee629c9b6740" title=" " alt="" coords="401,208,584,235"/>
+<area shape="rect" id="node14" href="$classm5_1_1AXP192__Class.html#a57161d242c957903f2403e36988ee71a" title=" " alt="" coords="665,317,861,358"/>
+<area shape="rect" id="node19" href="$classm5_1_1AXP2101__Class.html#a45c6182abdf9ceaba3251fe7fb32ff5d" title=" " alt="" coords="684,251,843,293"/>
+<area shape="rect" id="node15" href="$classm5_1_1I2C__Device.html#aa08510ec9fe332edd0e9241029d9ce71" title=" " alt="" coords="913,263,1135,289"/>
+<area shape="rect" id="node17" href="$classm5_1_1I2C__Device.html#ac295bce3a3eb06166e1bc8a5ff500951" title=" " alt="" coords="911,320,1137,347"/>
+<area shape="rect" id="node16" href="$classm5_1_1I2C__Class.html#a3ec4a0ad4573e5dc05c111b2bf3669c8" title=" " alt="" coords="1187,263,1401,289"/>
+<area shape="rect" id="node18" href="$classm5_1_1I2C__Class.html#aadbb966433a9867d18d5d49dcc37f7c4" title=" " alt="" coords="1185,320,1403,347"/>
+<area shape="rect" id="node28" href="$classm5_1_1Touch__Class.html#a95bf16f3cf826af9eed2d6fda6ea0e7b" title=" " alt="" coords="672,186,855,227"/>
+</map>
